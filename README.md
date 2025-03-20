@@ -9,25 +9,25 @@ This repository contains two Flutter applications as part of a group submission:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ahmedalisheikh4/SMD-6
    ```
 2. Navigate to each project directory and install dependencies:
    ```sh
-   cd provider_counter
+   cd flutter_provider
    flutter pub get
    ```
    ```sh
-   cd ../bloc_infinite_list
+   cd ../flutter_bloc
    flutter pub get
    ```
 3. Run each app:
    - Provider Counter App:
      ```sh
-     flutter run --project=provider_counter
+     flutter run --project=flutter_provider
      ```
    - Bloc Infinite List App:
      ```sh
-     flutter run --project=bloc_infinite_list
+     flutter run --project=flutter_bloc
      ```
 
 ## Group Members
